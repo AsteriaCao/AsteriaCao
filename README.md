@@ -1,4 +1,4 @@
 - 👋 Hi there, I am AsteriaCao, joint CS Ph.D. Student at Zhejiang University & Westlake University.
-- 🌱 I’m currently learning about Vision Language Action Models and Hallusinations in VLMs. → [Google Scholar](https://scholar.google.com/citations?user=zjN-amcAAAAJ&hl=zh-CN)
+- 🌱 I’m currently learning about Vision Language Action Models and Hallucination in VLMs. → [Google Scholar](https://scholar.google.com/citations?user=zjN-amcAAAAJ&hl=zh-CN)
 - 📫 How to reach me: [jinjin.cao@zju.edu.cn](jinjin.cao@zju.edu.cn)
 - ⚡ Fun fact: I love being in nature, running outdoors or hiking mountains. 
